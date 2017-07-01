@@ -2,11 +2,14 @@
 %!TEX encoding = UTF-8 Unicode
 
 \documentclass[11pt, a4paper]{article}
-\usepackage{fontspec} 
+\usepackage{fontspec}
 \usepackage[colorlinks=true,linkcolor=blue]{hyperref}
+\usepackage{longtable}
+\usepackage{booktabs}
+
 
 % DOCUMENT LAYOUT
-\usepackage[margin=1.2in]{geometry} 
+\usepackage[margin=1.2in]{geometry}
 \setlength\parindent{0in}
 
 
@@ -18,15 +21,15 @@
 \usepackage{multicol}
 \usepackage{enumitem}
 \setenumerate{nolistsep}
-\setitemize{nolistsep}
+%\setitemize{nolistsep}
 
 % FONTS
 \usepackage{xunicode}
 \usepackage{xltxtra}
 \defaultfontfeatures{Mapping=tex-text} % converts LaTeX specials (quotes'' --- dashes etc.) to unicode
 % \setromanfont[Ligatures={Common}, Numbers={OldStyle}]{Palatino}
-% \setmonofont[Scale=1.0]{Monaco} 
-% \setsansfont[Scale=1.0]{Optima Regular} 
+% \setmonofont[Scale=1.0]{Monaco}
+% \setsansfont[Scale=1.0]{Optima Regular}
 
 % HEADINGS and TITLES
 \usepackage{sectsty}
@@ -38,7 +41,7 @@
 
 \usepackage{titling}
 \setlength{\droptitle}{-90pt} % The negative number moves the title closer to the top of the page
-\title{$name$} % name $if(title)$$title$$endif$
+\title{$short-name$} % name $if(title)$$title$$endif$
 \date{$if(date)$$date$\\$endif$} % Leave blank to remove the date
 \author{$if(website)$$website$\\\\$endif$
 $street$ \textbar{} $postcode$ $city$ \textbar{} $country$\\ %Put your address here
