@@ -16,25 +16,25 @@ permalink: /cv/
 
 ### Professional Experience
 
-* 09/2016--06/2017: Research Associate, University of Koblenz-Landau, Campus Koblenz, Germany.  
+* 09/2016 -- 06/2017: Research Associate, University of Koblenz-Landau, Campus Koblenz, Germany.  
 Building a reference string extraction system for German social science publications as part of the DFG project "EXCITE - Extraction of Citations from PDF Documents".  
 Link to project: [https://mkrnr.de/excite](https://mkrnr.de/excite)
 
 ### Education
 
-- 10/2013--08/2016: M.Sc. Web Science (1.0), University of Koblenz-Landau, Campus Koblenz, Germany.  
+- 10/2013 -- 08/2016: M.Sc. Web Science (1.0), University of Koblenz-Landau, Campus Koblenz, Germany.  
 Thesis (1.0): *Author Extraction from Social Science Research Papers Using Conditional Random Fields and Distant Supervision*.  
 Link to thesis: [https://mkrnr.de/mt](https://mkrnr.de/mt)
 
-- 01/2014--05/2014: Study Abroad in Artificial Intelligence (1.0), University of Georgia, Athens, Georgia, USA.  
+- 01/2014 -- 05/2014: Study Abroad in Artificial Intelligence (1.0), University of Georgia, Athens, Georgia, USA.  
 Sponsored by a full scholarship (ISAP) of the German Academic Exchange Service (DAAD).
 
 
-- 10/2010--09/2013: B.Sc. Computer Science (1.7), University of Koblenz-Landau, Campus Koblenz, Germany.  
+- 10/2010 -- 09/2013: B.Sc. Computer Science (1.7), University of Koblenz-Landau, Campus Koblenz, Germany.  
 Thesis (1.0): *Author Extraction from Social Science Research Papers Using Conditional Random Fields and Distant Supervision*.  
 Link to thesis: [https://mkrnr.de/bt](https://mkrnr.de/bt)
 
-- 08/2001--03/2010: High School (Abitur, 1.7), Marion-Dönhoff-Gymnasium Lahnstein, Germany.
+- 08/2001 -- 03/2010: High School (Abitur, 1.7), Marion-Dönhoff-Gymnasium Lahnstein, Germany.
 
 ### Publications
 
@@ -46,14 +46,14 @@ Link to thesis: [https://mkrnr.de/bt](https://mkrnr.de/bt)
 
 #### Internships
 
-* 08/2014--10/2014: Pharma Research and Early Development (pRED) Informatics department at F. Hoffmann-La Roche in Basel, Switzerland.  
+* 08/2014 -- 10/2014: Pharma Research and Early Development (pRED) Informatics department at F. Hoffmann-La Roche in Basel, Switzerland.  
 Investigating the capabilities of semantic technologies for improving the terminology management.
 
 #### Student Jobs
 
-* 03/2015--01/2016: Research Assistant at the Institute for Web Science and Technologies at the University of Koblenz-Landau, Campus Koblenz, Germany.  
+* 03/2015 -- 01/2016: Research Assistant at the Institute for Web Science and Technologies at the University of Koblenz-Landau, Campus Koblenz, Germany.  
 Developing a [distributed streaming approach](https://github.com/Institute-Web-Science-and-Technologies/westTopologies) for analyzing tweets using Apache Storm as part of the EU project REVEAL.
-* 07/2012--12/2013: Student Assistant at the Institute for Web Science and Technologies at the University of Koblenz-Landau, Campus Koblenz, Germany.  
+* 07/2012 -- 12/2013: Student Assistant at the Institute for Web Science and Technologies at the University of Koblenz-Landau, Campus Koblenz, Germany.  
 Developing a [language modeling toolkit](https://github.com/renepickhardt/generalized-language-modeling-toolkit) for building skipped n-gram language models as part of the EU project Social Sensor.
 
 ### Awards
@@ -70,4 +70,4 @@ As graduate of the computer science faculty (Fachbereich 4) of the University of
 
 ### Licences
 
-* 10/2008--today: German driving license (Class B)
+* 10/2008 -- today: German driving license (Class B)
