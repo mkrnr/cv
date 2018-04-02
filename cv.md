@@ -31,7 +31,7 @@ Sponsored by a full scholarship (ISAP) of the German Academic Exchange Service (
 
 
 - 10/2010 -- 09/2013: B.Sc. Computer Science (1.7), University of Koblenz-Landau, Campus Koblenz, Germany.  
-Thesis (1.0): *Author Extraction from Social Science Research Papers Using Conditional Random Fields and Distant Supervision*.  
+Thesis (1.0): *Implementation of Modified Kneser-Ney Smoothing on Top of Generalized Language Models for Next Word Prediction*.  
 Link to thesis: [https://mkrnr.de/bt](https://mkrnr.de/bt)
 
 - 08/2001 -- 03/2010: High School (Abitur, 1.7), Marion-Dönhoff-Gymnasium Lahnstein, Germany.
