@@ -2,13 +2,13 @@
 title: 'CV'
 short-name: 'Martin Körner'
 website: https://mkoerner.de/cv/
-street: Friedrich-Ebert-Ring 46
-city: Koblenz
+street: Jordanstraße 27 
+city: Düsseldorf
 country: Germany
-postcode: 56068
+postcode: 40477
 phone: +49 151 41918584
 email: info@mkoerner.de
-date: 25 June 2017
+date: 13 October 2019
 
 layout: cv
 permalink: /cv/
@@ -16,7 +16,11 @@ permalink: /cv/
 
 ### Professional Experience
 
-* 09/2016 -- 06/2017: Research Associate, University of Koblenz-Landau, Campus Koblenz, Germany.  
+* 05/2019 -- present: Software Engineer, GEBIT Solutions GmbH, Düsseldorf, Germany.
+
+* 04/2018 -- 05/2019: Junior Software Engineer, GEBIT Solutions GmbH, Düsseldorf, Germany.
+
+* 09/2016 -- 06/2017: Research Associate, University of Koblenz-Landau, Campus Koblenz, Germany.
 Building a reference string extraction system for German social science publications as part of the DFG project "EXCITE - Extraction of Citations from PDF Documents".  
 Link to project: [https://mkrnr.de/excite](https://mkrnr.de/excite)
 
@@ -38,7 +42,7 @@ Link to thesis: [https://mkrnr.de/bt](https://mkrnr.de/bt)
 
 ### Publications
 
-* **Körner, M.**, Ghavimi, B., Mayr, P., Hartmann, H., Staab, S. (2017). *Evaluating Reference String Extraction Using Line-Based Conditional Random Fields: A Case Study with German Language Publications*. Workshop on Data-Driven Approaches for Analyzing and Managing Scholarly Data, AMSD 2017, Nicosia, Cyprus (forthcoming).
+* **Körner, M.**, Ghavimi, B., Mayr, P., Hartmann, H., Staab, S. (2017). *Evaluating Reference String Extraction Using Line-Based Conditional Random Fields: A Case Study with German Language Publications*. European Conference on Advances in Databases and Information Systems (pp. 137-145). Springer.
 * **Körner, M.**, Sennikova, T., Windhäuser, F., Wagner, C., & Flöck, F. (2016). [*Wikiwhere: An Interactive Tool for Studying the Geographical Provenance of Wikipedia References*](https://arxiv.org/pdf/1612.00985.pdf). Accepted Poster, Computational Social Science Winter Symposium, CSSWS 2016, Cologne, Germany.
 * Pickhardt, R., Gottron, T., **Körner, M.**, Wagner, P. G., Speicher, T. & Staab, S. (2014). [*A Generalized Language Model as the Combination of Skipped n-grams and Modified Kneser Ney Smoothing*](http://acl2014.org/acl2014/P14-1/pdf/P14-1108.pdf). Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, ACL 2014, June 22-27, 2014, Baltimore, MD, USA, Volume 1: Long Papers (p./pp. 1145--1154).
 
@@ -65,6 +69,8 @@ As graduate of the computer science faculty (Fachbereich 4) of the University of
 
 * German: Mother tongue
 * English: Fluent  
+    * 09/2017: TOEFL (Test of English as a Foreign Language)  
+    Score: 116/120 (Reading: 29, Listening: 30, Speaking: 28, Writing: 29)
     * 08/2013: TOEFL (Test of English as a Foreign Language)  
     Score: 115/120 (Reading: 30, Listening: 28, Speaking: 27, Writing: 30)
 
