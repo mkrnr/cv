@@ -8,7 +8,7 @@ country: Germany
 postcode: 40477
 phone: +49 151 41918584
 email: info@mkoerner.de
-date: 13 October 2019
+date: 05 August 2021
 
 layout: cv
 permalink: /cv/
@@ -17,28 +17,32 @@ permalink: /cv/
 ### Professional Experience
 
 * 05/2019 -- present: Software Engineer, GEBIT Solutions GmbH, Düsseldorf, Germany.
-
+    * Developing a large Java-based point of sale (POS) application for a supermarket chain
+    * Approved code reviewer
+    * Part of the transition from waterfall to scaled Scrum
+    * Expert on internal frameworks for configuration management and automated testing
+    * Holding internal workshops and onboardings
+    * Requirements engineering in close contact with the customer
 * 04/2018 -- 05/2019: Junior Software Engineer, GEBIT Solutions GmbH, Düsseldorf, Germany.
-
+    * Developing a large Java-based point of sale (POS) application for a supermarket chain
 * 09/2016 -- 06/2017: Research Associate, University of Koblenz-Landau, Campus Koblenz, Germany.
-Building a reference string extraction system for German social science publications as part of the DFG project "EXCITE - Extraction of Citations from PDF Documents".  
-Link to project: [https://mkrnr.de/excite](https://mkrnr.de/excite)
+    * Developing a reference string extraction system for German social science publications as part of the DFG project "EXCITE - Extraction of Citations from PDF Documents".  
+    * Link to project: [https://mkrnr.de/excite](https://mkrnr.de/excite)
 
 ### Education
 
-- 10/2013 -- 08/2016: M.Sc. Web Science (1.0), University of Koblenz-Landau, Campus Koblenz, Germany.  
-Thesis (1.0): *Author Extraction from Social Science Research Papers Using Conditional Random Fields and Distant Supervision*.  
-Link to thesis: [https://mkrnr.de/mt](https://mkrnr.de/mt)
+* 10/2013 -- 08/2016: M.Sc. Web Science (Grade 1.0), University of Koblenz-Landau, Campus Koblenz, Germany.  
+    * Thesis (1.0): *Author Extraction from Social Science Research Papers Using Conditional Random Fields and Distant Supervision*.  
+    * Link to thesis: [https://mkrnr.de/mt](https://mkrnr.de/mt)
 
-- 01/2014 -- 05/2014: Study Abroad in Artificial Intelligence (1.0), University of Georgia, Athens, Georgia, USA.  
-Sponsored by a full scholarship (ISAP) of the German Academic Exchange Service (DAAD).
+* 01/2014 -- 05/2014: Study Abroad in Artificial Intelligence (GPA 4.0), University of Georgia, Athens, Georgia, USA.  
+    * Sponsored by a full scholarship (ISAP) of the German Academic Exchange Service (DAAD).
 
+* 10/2010 -- 09/2013: B.Sc. Computer Science (Grade 1.7), University of Koblenz-Landau, Campus Koblenz, Germany.  
+    * Thesis (1.0): *Implementation of Modified Kneser-Ney Smoothing on Top of Generalized Language Models for Next Word Prediction*. 
+    * Link to thesis: [https://mkrnr.de/bt](https://mkrnr.de/bt)
 
-- 10/2010 -- 09/2013: B.Sc. Computer Science (1.7), University of Koblenz-Landau, Campus Koblenz, Germany.  
-Thesis (1.0): *Implementation of Modified Kneser-Ney Smoothing on Top of Generalized Language Models for Next Word Prediction*.  
-Link to thesis: [https://mkrnr.de/bt](https://mkrnr.de/bt)
-
-- 08/2001 -- 03/2010: High School (Abitur, 1.7), Marion-Dönhoff-Gymnasium Lahnstein, Germany.
+* 08/2001 -- 03/2010: High School (Abitur, Grade 1.7), Marion-Dönhoff-Gymnasium Lahnstein, Germany.
 
 ### Publications
 
@@ -65,14 +69,24 @@ Developing a [language modeling toolkit](https://github.com/renepickhardt/genera
 * 11/2016: IT Award 2016 of the Debeka Group.  
 As graduate of the computer science faculty (Fachbereich 4) of the University of Koblenz and Landau with the best grade average out of 213 students.
 
+### Skills
+
+* Java (four years working experience)
+* Python (several private projects)
+* Model-driven development
+* SQL, Git, Maven, Jenkins, JIRA, Eclipse IDE
+* Scrum
+* Windows, Linux
+
 ### Languages
 
 * German: Mother tongue
 * English: Fluent  
     * 09/2017: TOEFL (Test of English as a Foreign Language)  
-    Score: 116/120 (Reading: 29, Listening: 30, Speaking: 28, Writing: 29)
+        * Score: 116/120 (Reading: 29, Listening: 30, Speaking: 28, Writing: 29)
     * 08/2013: TOEFL (Test of English as a Foreign Language)  
-    Score: 115/120 (Reading: 30, Listening: 28, Speaking: 27, Writing: 30)
+        * Score: 115/120 (Reading: 30, Listening: 28, Speaking: 27, Writing: 30)
+* Russian: Elementary
 
 ### Licences
 
